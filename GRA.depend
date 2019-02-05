@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1515958344 source:c:\studia\ti\cpp\game\podzielona\gra\main.cpp
+	<iostream>
+	"helpers.h"
+	"control.h"
+	"window.h"
+	"renderable.h"
+	"complexobject.h"
+	"collector.h"
+	"player.h"
+	"background.h"
+	"state.h"
+	"music.h"
+
+1515704519 c:\studia\ti\cpp\game\podzielona\gra\helpers.h
+	<time.h>
+	<stdio.h>
+	<graphics.h>
+	"personal.h"
+
+1515701457 c:\studia\ti\cpp\game\podzielona\gra\personal.h
+
+1515788569 c:\studia\ti\cpp\game\podzielona\gra\control.h
+
+1515701425 c:\studia\ti\cpp\game\podzielona\gra\window.h
+
+1515785492 c:\studia\ti\cpp\game\podzielona\gra\renderable.h
+	<math.h>
+
+1515785537 c:\studia\ti\cpp\game\podzielona\gra\complexobject.h
+
+1515787322 c:\studia\ti\cpp\game\podzielona\gra\collector.h
+	<vector>
+
+1515783278 c:\studia\ti\cpp\game\podzielona\gra\player.h
+
+1515706930 c:\studia\ti\cpp\game\podzielona\gra\background.h
+
+1516012334 c:\studia\ti\cpp\game\podzielona\gra\state.h
+
+1516048409 c:\studia\ti\cpp\game\podzielona\gra\music.h
+	<process.h>
+
